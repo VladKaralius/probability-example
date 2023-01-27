@@ -1,3 +1,4 @@
+*.exe
 obj/Probability.csproj.nuget.dgspec.json
 obj/Probability.csproj.nuget.g.props
 obj/Probability.csproj.nuget.g.targets
